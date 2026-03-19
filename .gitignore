@@ -1,0 +1,31 @@
+# Planilhas Excel (podem conter dados sensíveis)
+*.xlsx
+*.xls
+*.csv
+
+# Executáveis compilados
+*.exe
+dist/
+build/
+*.spec
+
+# Logs e resultados gerados pelo script
+*.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.eggs/
+.env
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.cursor
+Agent.md
