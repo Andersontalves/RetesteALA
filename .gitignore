@@ -10,7 +10,11 @@ build/
 *.spec
 
 # Logs e resultados gerados pelo script
-*.txt
+analise_sinal.txt
+resultado_analise.txt
+saida.txt
+verify.txt
+erro.txt
 
 # Python
 __pycache__/
